@@ -9,7 +9,6 @@ int main(){
 	*/ 
 	
 	/*declaracao de variaveis
-	Em Pascal
 	idade : integer;
 	
 	Em C
@@ -19,7 +18,7 @@ int main(){
 	
 	int idade;
 	//operadores de atribuicao 
-	idade = 10;
+	idade = 100;
 	idade += 5; // idade = idade + 5;
 	idade -= 5; // idade = idade - 5;
 	idade *= 5;
@@ -42,6 +41,7 @@ int main(){
 	//leia dois numeros e mostre a subtracao
 	//leia dois numeros e mostre a multiplicacao
 	//leia dois numeros e mostre a divisao
+	//linha nova
 	
  	
 	              
